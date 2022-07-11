@@ -9,6 +9,6 @@
 - 💬 Ask me about Scripting
 - 📫 How to reach me: sakolkar236@gmail.com
 - 🔗 https://www.linkedin.com/in/saurabh-akolkar-1b07a9156//
-//- 😄 Pronouns: ...
-//- ⚡ Fun fact: ...
+<!---
+ 😄 Pronouns: ... - ⚡ Fun fact: ... -->
 
